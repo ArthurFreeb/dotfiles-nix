@@ -39,12 +39,11 @@
     nnn
     go_1_22
     k9s
-    nodejs_20
-    corepack_20
     gh
     ripgrep
     nodePackages."dotenv-cli"
     dotnet-sdk_8
+    dotnet-sdk_9
     kubectl
     kubelogin
     azure-cli
