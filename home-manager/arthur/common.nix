@@ -42,7 +42,7 @@
     gh
     ripgrep
     nodePackages."dotenv-cli"
-    dotnet-sdk-wrapped
+    dotnet-sdk_9
     kubectl
     kubelogin
     azure-cli
