@@ -42,8 +42,7 @@
     gh
     ripgrep
     nodePackages."dotenv-cli"
-    dotnet-sdk_8
-    dotnet-sdk_9
+    dotnet-sdk-wrapped
     kubectl
     kubelogin
     azure-cli
@@ -51,7 +50,7 @@
     kustomize
     minikube
     unzip
-    elixir_1_16
+    elixir_1_18
     k6
     temporal-cli
     dapr-cli
